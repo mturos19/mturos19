@@ -1,7 +1,6 @@
 ### Welcome to my Github Profile.
 
 
-- 🔭 I’m currently working on an Arduino controlled 3D printed robotic arm.
 - 🌱 I’m currently doing a Master's in Data Science and Computational Intelligence.
 - 💬 Ask me about Sci Fi, science, AI, futurism, books, video games, all things space.
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/markturos)** or **[Twitter](https://twitter.com/markturos)**
