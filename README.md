@@ -6,4 +6,4 @@
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/markturos)** or **[Twitter](https://twitter.com/markturos)**
 
 ### My Stats
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mturos19&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mturos19&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=mturos19&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)
